@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Samples.ArrayTex": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
